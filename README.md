@@ -2,7 +2,7 @@
 
 #### Article link:
 
-[Equivalence between belief propagation instability and transition to replica symmetry breaking in perceptron learning systems](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.023023)
+Y Zhao, J Qiu, M Xie, H Huang. Equivalence between belief propagation instability and transition to replica symmetry breaking in perceptron learning systems. 2022. Physical Review Research [[Link](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.023023)]
 
 ### Files:
 
